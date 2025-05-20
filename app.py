@@ -1,3 +1,5 @@
+# Author: Arda Baran
+# Description:Gradio API code to run model as application.
 import gradio as gr
 from fastai.vision.all import *
 from PIL import Image, UnidentifiedImageError
